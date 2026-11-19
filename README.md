@@ -19,5 +19,5 @@
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhattnc&count_private=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-<img margin="30em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhattnc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img padding="30em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhattnc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
