@@ -1,7 +1,7 @@
 ### About Me
 
 - Computer Science (Informatik) student at **RWTH Aachen University**
-- Interested in **Systems Programming**, **Automation**, **Artificial Intelligence**, and ** Game Dev**
+- Interested in **Systems Programming**, **Automation**, **Artificial Intelligence**, and **Game Dev**
 - Always building practical tools, bots, and interactive projects
 
 ---
